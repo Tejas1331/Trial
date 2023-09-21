@@ -1,4 +1,4 @@
  # Trial
 Trial repository
 <br>
-Author - Tejas Joshi
+Author - Tejas Joshi (Data Scientist)
